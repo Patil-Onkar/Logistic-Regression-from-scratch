@@ -11,3 +11,10 @@ References
 1. https://archive.ics.uci.edu/ml/datasets/iris
 
 2. https://en.wikipedia.org/wiki/Cross_entropy
+
+
+Articles about the Logistic Regression:
+
+https://machinelearningmastery.com/logistic-regression-for-machine-learning/
+
+https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
